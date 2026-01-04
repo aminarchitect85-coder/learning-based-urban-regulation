@@ -1,6 +1,6 @@
 # Learning-Based Urban Regulation for Low-Car Cities: A London Pilot Framework
 
-**Author & Originator:** Aminmahmoud Irani (London)  
+**Author & Originator:** Aminmahmoud Irani (London_Greenwich)  
 **Version:** v0.1  
 **Date:** 20 December 2025
 
